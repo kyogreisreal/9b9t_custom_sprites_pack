@@ -1,0 +1,16 @@
+#I don't know why this shouldn't work, but it doesn't.
+matchTiles=enchanting_table_bottom enchanting_table_side enchanting_table_top
+method=fixed
+tiles=mormon_table_bottom mormon_table_side mormon_table_top
+faces=bottom sides top
+name=iregex:WTDpuddles
+
+#matchTiles=enchanting_table_side
+#method=fixed
+#tiles=mormon_table_side
+#name=iregex:WTDpuddles
+
+#matchTiles=enchanting_table_top
+#method=fixed
+#tiles=mormon_table_top
+#name=iregex:WTDpuddles
