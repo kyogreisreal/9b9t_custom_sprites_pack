@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "mcpatcher/cit/blocks/lime_shulker_box/test_shulk/test_top",
-        "side": "mcpatcher/cit/blocks/lime_shulker_box/test_shulk/test_side.png"
-    }
-}

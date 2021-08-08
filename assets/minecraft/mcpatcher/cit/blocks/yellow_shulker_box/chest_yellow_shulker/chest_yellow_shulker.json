@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable",
-    "textures": {
-        "top": "mcpatcher/cit/blocks/yellow_shulker_box/chest_yellow_shulker/chest_yellow_shulker_top",
-        "front": "mcpatcher/cit/blocks/yellow_shulker_box/chest_yellow_shulker/chest_yellow_shulker_front",
-        "side": "mcpatcher/cit/blocks/yellow_shulker_box/chest_yellow_shulker/chest_yellow_shulker_side"
-    }
-}

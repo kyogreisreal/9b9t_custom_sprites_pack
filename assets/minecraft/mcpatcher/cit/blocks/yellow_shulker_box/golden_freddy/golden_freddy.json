@@ -1,8 +1,0 @@
-{
-    "parent": "block/orientable",
-    "textures": {
-        "top": "mcpatcher/cit/blocks/yellow_shulker_box/golden_freddy/golden_freddy_top",
-        "front": "mcpatcher/cit/blocks/yellow_shulker_box/golden_freddy/golden_freddy_front",
-        "side": "mcpatcher/cit/blocks/yellow_shulker_box/golden_freddy/golden_freddy_side"
-    }
-}
